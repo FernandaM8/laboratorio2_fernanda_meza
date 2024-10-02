@@ -1,0 +1,1 @@
+buenas auxi queria cometarle que ya hice las funciones pero la pagina se reacrga y usted dijo que era la api entonces las funciones si dan correctamente .
